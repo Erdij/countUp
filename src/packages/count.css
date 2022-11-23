@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+}
+.contents {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+}
+.content {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  color: white;
+  font-size: 70px;
+  line-height: 300px;
+  text-align: center;
+  margin-right: 30px;
+}
+.content1 {
+  background-color: brown;
+}
+.content2 {
+  background-color: cadetblue;
+}
+.content3 {
+  background-color: red;
+}
